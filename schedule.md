@@ -17,4 +17,7 @@ Here's the schedule for the course.
 | 3 | 17 - 23 Mehr | Visualizations and Reporting | Visualization Notebook |
 | 4 | 24 - 30 Mehr | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
 | 5 | 1 - 6 Aban | Different Problem/Learning Types | Examining Different Datasets |
+| 6 | 7 - 13 Aban | Regression Problems | Regression Methods Notebook |
+| 7 | 14 - 20 Aban | Classification Problems | Classification Methods Notebook |
+| 8 | 21 - 27 Aban | Multiclass/Multilabel Classification and Different Accuracy Metrics | Extension of Classification Methods Notebook |
 
