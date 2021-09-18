@@ -17,25 +17,24 @@ Gathering Data → Cleaning → Preprocessing → Analysis → Visualization
 Throught this process, we work on several different sample problems in the lab sessions as well as through homeworks and final projects, in order to help the students be ready for various type of data problems they'll face later on in their careers.
 
 ## Learning Objectives
-* 
-* 
+By the end of the semester, the students will (hopefuly!):
 
-* The course covers a lot of topics, but we won’t go deep, i.e. breadth vs. depth. We will learn how to find further details we need online.
+* Learn how to prepare the dataset they are going to use (cleaning, preprocessing and exploratory data analysis),
+* Become familiar with different types of problems (e.g. regression/classification), as well as main learning types (e.g. supervised/unsupervised),
+* Practice using some of the most well-known and widely used algorithms for classification/regression problems (including Decision Trees, Neural Networks, etc.)
+* Strengthen their reporting/visualizing skills to communicate the results in the most effective way.
+* Practice the learned skills on different datasets to get more experience on different data problems.
 
-
-* 
+Overall, our main target is that we can conduct the whole workflow (e.g. from gathering/finding the dataset to pareparing it and then analyzing and reporting the results) in a confident smooth manner.
 
 # Logistics
+We are going to use **Python** for the hands on lab sessions.
 
 
-### License
-
-### Lecturer
-Amir Hesam Salavati
-Laboratory for Audiovisual Communications ([LCAV](http://lcav.epfl.ch)) at 
-[EPFL](http://www.epfl.ch).
+# Lecturer
+[Amir Hesam Salavati](http://saloot.negsam.ir/)
+CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
 <img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
-
 
 #### Contact
 [Amir Hesam Salavati](mailto: saloot@gmail.com) <br>
