@@ -1,5 +1,3 @@
-- name: Schedule
-  link: /schedule
 - name: Lectures and Lab Sessions
   link: /lectures
 - name: Assignments
