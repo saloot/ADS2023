@@ -1,9 +1,12 @@
 ---
-layout: default
-published: true
-title: Page New
-order: 1
+title: Applied Data Science
+subtitle: Khatam University, Fall 1400
+layout: page
+show_sidebar: false
 ---
+
+# About This Course
+This is a good course
 
 # Schedules
 This course is about *applied* data science.
