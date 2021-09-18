@@ -1,16 +1,12 @@
 ---
-layout: default
-published: true
-title: Home Page
-nav_order: 1
+title: Applied Data Science
+subtitle: Khatam University, Fall 1400
+layout: page
+show_sidebar: false
 ---
 
 # About This Course
 This is a good course
-
-# Schedules
-This course is about *applied* data science.
-
 
 # Learning Objectives
 * Main aim of the course is to get you STARTED on using data science in PRACTICE
