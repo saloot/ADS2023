@@ -1,7 +1,7 @@
 ---
 title: Applied Data Science
 subtitle: Khatam University, Fall 1400
-layout: page
+layout: page 
 show_sidebar: false
 ---
 
@@ -41,7 +41,7 @@ Overall, our main target is that we can conduct the whole workflow (e.g. from ga
 
 
 # Lecturer
-<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-scaled.jpg" style="border-radius:50%;" height="80" width="auto">
+<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-lo.jpg" style="border-radius:50%;" height="80" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
