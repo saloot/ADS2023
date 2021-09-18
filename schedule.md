@@ -1,7 +1,8 @@
 ---
-hide_hero: true
-layout: page
-show_sidebar: false
+layout: default
+published: true
+title: Page title
+nav_order: 2
 ---
 
 # About This Course

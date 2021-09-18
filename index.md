@@ -1,8 +1,8 @@
 ---
-title: Applied Data Science
-subtitle: Khatam University, Fall 1400
-layout: page
-show_sidebar: false
+layout: default
+published: true
+title: Home Page
+nav_order: 1
 ---
 
 # About This Course
