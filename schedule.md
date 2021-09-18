@@ -1,37 +1,14 @@
 ---
 hide_hero: true
 layout: page
+hide_hero: true
 show_sidebar: false
 ---
 
-# About This Course
-This course is about *applied* data science.
+# Course Schedule
 
-
-# Learning Objectives
-* Main aim of the course is to get you STARTED on using data science in PRACTICE
-
-* We go over all steps of a data problem workflow:
-   Gathering → Cleaning → Preprocessing → Analysis → Visualization 
-
-
-* The course covers a lot of topics, but we won’t go deep, i.e. breadth vs. depth. We will learn how to find further details we need online.
-
-
-* We work on several different sample problems to help you be ready for various problems you’ll face later in your career
-
-# Logistics
-
-
-### License
-
-### Lecturer
-Amir Hesam Salavati
-Laboratory for Audiovisual Communications ([LCAV](http://lcav.epfl.ch)) at 
-[EPFL](http://www.epfl.ch).
-<img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
-
-
-#### Contact
-[Amir Hesam Salavati](mailto: saloot@gmail.com) <br>
+| Week 	| Date	| Lecture | Lab Session |
+|------|------|-----|-----|
+| 1 | 3 - 10 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1pjlp63eZbRW_cRZKk0i9IB4BaX30JMzwiPygbX6zocY/edit?usp=sharing)	| Introduction to [Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing) |
+| 2 | 24 - 30 Aban | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1DQT_IkVv3BTPcvxRom6lQEBlUZENCaOhSDtErxil-uc/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing)	|
 
