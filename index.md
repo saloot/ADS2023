@@ -41,7 +41,7 @@ Overall, our main target is that we can conduct the whole workflow (e.g. from ga
 
 
 # Lecturer
-<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-scaled.jpg" style="border-radius:40px;">
+<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-scaled.jpg" style="border-radius:40px;" height=80>
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
 
