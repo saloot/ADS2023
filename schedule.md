@@ -6,6 +6,9 @@ show_sidebar: false
 ---
 
 # Course Schedule
+Here's the schedule for the course. 
+* The deadlines for handing in homeworks will be announced each session.
+* The exact dates for final exam and projects are not yet fixed. Stay tuned!
 
 | Week 	| Date	| Lecture | Lab Session |
 |------|------|-----|-----|
@@ -13,4 +16,5 @@ show_sidebar: false
 | 2 | 10 - 16 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1DQT_IkVv3BTPcvxRom6lQEBlUZENCaOhSDtErxil-uc/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing)	|
 | 3 | 17 - 23 Mehr | Visualizations and Reporting | Visualization Notebook |
 | 4 | 24 - 30 Mehr | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
+| 5 | 1 - 6 Aban | Different Problem/Learning Types | Examining Different Datasets |
 
