@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+docs_list_title: ACME Documentation
+docs:
+
+- title: Home
+  url: index.md
+
+- title: Schedule
+  url: schedule.md
+
