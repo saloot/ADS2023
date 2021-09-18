@@ -27,15 +27,25 @@ By the end of the semester, the students will (hopefuly!):
 
 Overall, our main target is that we can conduct the whole workflow (e.g. from gathering/finding the dataset to pareparing it and then analyzing and reporting the results) in a confident smooth manner.
 
+## Grading 
+* Homeworks: 40% 
+* Final Project: 40%
+* Final Exam: 20%
+* We *might* have a bonus of upto 10% for participation in a Kaggle contest! More on that later on
+
 # Logistics
-We are going to use **Python** for the hands on lab sessions.
+* The course is divided into a lecture (on Sundays) and a lab session (on Tuesdays). 
+  * We'll arrange a session throuout the week for helping you with issues you might encounters when working on your homework/project.
+* We are going to use **Python** for the hands on lab sessions. But homeworks/projects can be handed as a pre-computed Jupyter notebooks (so they can be done in R).
+* Communications are done via MS Teams chat rooms.
 
 
 # Lecturer
+<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-scaled.jpg" style="border-radius:40px;">
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
-<img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
 
-#### Contact
+
+### Contact
 [Amir Hesam Salavati](mailto: saloot@gmail.com) <br>
 
