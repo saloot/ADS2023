@@ -8,7 +8,7 @@ show_sidebar: false
 # About This Course
 In this course, our aim is to get the students STARTED on using data science in practice, either for academic projects or problems in industry which they might face later on in their career. 
 
-The course is more about breadth than depth, i.e. we try to cover a lot of topics, but we won't get too deep in them as it would take "forever"! However, we will work on our search skills, to find the solution we need online (which is a necessary skill for anyone, especially data scientists as this is a rapidly evolving field).
+The course is more about breadth than depth, i.e. we try to cover a lot of topics, but we won't get too deep in them (as it would take "forever"!)
 
 We go over all steps of a data problem workflow, namely: 
 
@@ -26,6 +26,11 @@ By the end of the semester, the students will (hopefuly!):
 * Practice the learned skills on different datasets to get more experience on different data problems.
 
 Overall, our main target is that we can conduct the whole workflow (e.g. from gathering/finding the dataset to pareparing it and then analyzing and reporting the results) in a confident smooth manner.
+
+## Prerequisites
+* Familiarity with statistics and basics of data science 
+* Knowledge of programming in Python, NumPy and Pandas (homeworks can be done in R as well, but we cannot help with any bugs along the way).
+* Having worked with Google Colab before would be a plus!
 
 ## Reading Material
 There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course. 
