@@ -27,6 +27,9 @@ By the end of the semester, the students will (hopefuly!):
 
 Overall, our main target is that we can conduct the whole workflow (e.g. from gathering/finding the dataset to pareparing it and then analyzing and reporting the results) in a confident smooth manner.
 
+## Reading Material
+There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course. 
+
 ## Grading 
 * Homeworks: 40% 
 * Final Project: 40%
