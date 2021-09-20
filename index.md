@@ -41,7 +41,11 @@ There is no required textbook for this course. But the students are expected to 
 ## Grading 
 * Homeworks: 40% 
 * Final Project: 40%
+    * Notebook (runs correctly and does the task): 70 Points
+    * Presentation (runs correctly and does the task): 30 Points
+        * Of the 30 points of the presentation, 20 comes from other groups!
 * Final Exam: 20%
+
 * We *might* have a bonus of upto 10% for participation in a Kaggle contest! More on that later on
 
 # Logistics
@@ -52,7 +56,7 @@ There is no required textbook for this course. But the students are expected to 
 
 
 # Lecturer
-<img src="/ADS2021/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:120px;" width="auto">
+<img src="/ADS2021/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
