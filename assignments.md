@@ -1,0 +1,42 @@
+---
+hide_hero: true
+layout: page
+hide_hero: true
+show_sidebar: false
+---
+
+# How It Works!
+Homeworks will be announced regularly here and in the lectures. For the homeworks, the goal is to perform what we have learned during the lactures and lab sessions on the dataset of your choice. 
+
+* A list of available datasets are listed below, but if you are interested to work on a dataset of your own, it can be arranged too. Simply send us an email and we will discuss the details. 
+* After a homework is announced, you have one week to submit your results.
+* The results should be in the form of a pre-compiled Jupyter notebook (so you can do it in R if you like). For submitting, you have two options:
+    * Create a Github repository and submit each week's assignment there (this is the **strongly recommended** option).
+    * Otherwise, you can submit it via a Google Colab and share it with us.
+
+* Homeworks can be done in a group of 2 (and we strongly recommend it!). 
+
+* You will be graded according to the following criteria:
+    * Notebook runs without a problem: 25%
+    * It solves/addresses the problem: 60%
+    * It is clear and well-commented: 15%
+
+
+* Grades will be available within 10 days.
+
+* Late policy: For each late day, 10% penalty 
+
+# Homeworks and Due Dates
+
+## Assignment 1
+* Get familiar with Google Colab and Pandas (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing)).
+* Pick a dataset to work on for your homeworks (see the list below).
+* Form your groups and send us an email.
+
+**Due date:** Friday, Mehr 9, 23:59
+
+## Assignment 2: Exploratory Analysis and Data Cleaning
+* On the database of your choince, perform Exploratory Data Analysis, Cleaning and Preprocessing.
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing) as a guideline.
+
+**Due date:** Monday, Mehr 19, 23:59
