@@ -49,7 +49,7 @@ There is no required textbook for this course. But the students are expected to 
 
 
 # Lecturer
-<img src="http://saloot.negsam.ir/wp-content/uploads/2021/09/20210610_183220-lo.jpg" style="border-radius:50%;" height="80" width="auto">
+<img src="/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;" height="80" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
