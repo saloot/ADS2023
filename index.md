@@ -6,6 +6,7 @@ show_sidebar: false
 ---
 
 # About This Course
+<img src="/ADS2021/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 In this course, our aim is to get the students STARTED on using data science in practice, either for academic projects or problems in industry which they might face later on in their career. 
 
 The course is more about breadth than depth, i.e. we try to cover a lot of topics, but we won't get too deep in them (as it would take "forever"!)
@@ -49,7 +50,7 @@ There is no required textbook for this course. But the students are expected to 
 
 
 # Lecturer
-<img src="/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;" height="80" width="auto">
+<img src="/ADS2021/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;" height="80" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
