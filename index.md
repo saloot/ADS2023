@@ -63,10 +63,10 @@ There is no required textbook for this course. But the students are expected to 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
 
-### TA
+### Teaching Assistant
 <img src="/ADS2021/assets/images/MHMalekpour.jpg" style="border-radius:50%;height:160px;" width="auto">
 
-[Mohammad Hossein Malekpour](www.linkedin.com/in/mohammadhossein-malekpour)
+[Mohammad Hossein Malekpour](https://linkedin.com/in/mohammadhossein-malekpour)
 [Data Scientist](mailto:mohammadhossein.malekpour@gmail.com)
 
 
