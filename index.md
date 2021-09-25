@@ -61,14 +61,17 @@ There is no required textbook for this course. But the students are expected to 
 <img src="/ADS2021/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
+
 CTO at [Achareh](https://achareh.ir) and [Ubaar](https://ubaar.ir)
 
 ### Teaching Assistant
 <img src="/ADS2021/assets/images/MHMalekpour.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Mohammad Hossein Malekpour](https://linkedin.com/in/mohammadhossein-malekpour)
-[Data Scientist](mailto:mohammadhossein.malekpour@gmail.com)
+
+
 
 
 ### Contact
 [Amir Hesam Salavati](mailto: saloot@gmail.com) <br>
+[Mohammad Hossein Malekpour](mailto:mohammadhossein.malekpour@gmail.com)
