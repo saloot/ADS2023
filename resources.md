@@ -5,38 +5,12 @@ hide_hero: true
 show_sidebar: false
 ---
 
-# How It Works!
-Homeworks will be announced regularly here and in the lectures. For the homeworks, the goal is to perform what we have learned during the lactures and lab sessions on the dataset of your choice. 
+# Some Datasets for Homeworks
+Below, you can find a few datasets you can use for your homeworks. There are just a few suggestions though. If you have a particular dataset in mind, please get in touch and we can sort it out.
 
-* A list of available datasets are listed [here](/ADS2021/resources), but if you are interested to work on a dataset of your own, it can be arranged too. Simply send us an email and we will discuss the details. 
-* After a homework is announced, you have one week to submit your results.
-* The results should be in the form of a pre-compiled Jupyter notebook (so you can do it in R if you like). For submitting, you have two options:
-    * Create a Github repository and submit each week's assignment there (this is the **strongly recommended** option).
-    * Otherwise, you can submit it via a Google Colab and share it with us.
+### [Achareh](https://achareh.ir)
+<img src="/ADS2021/assets/images/achareh_logo.png" style="border-radius:50%;height:240px;" width="auto">
+Achareh is an online platform to hire handymen in over 30 cities in Iran covering more than 300 services related to houses, cars, pets, health and beauty and more. 
 
-* Homeworks can be done in a group of 2 (and we strongly recommend it!). 
-
-* You will be graded according to the following criteria:
-    * Notebook runs without a problem: 25%
-    * It solves/addresses the problem: 60%
-    * It is clear and well-commented: 15%
-
-
-* Grades will be available within 10 days.
-
-* Late policy: For each late day, 10% penalty 
-
-# Homeworks and Due Dates
-
-### Assignment 1
-* Get familiar with Google Colab and Pandas (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing)).
-* Pick a dataset to work on for your homeworks (see the list [here](/ADS2021/resources)).
-* Form your groups and send us an email.
-
-**Due date:** Friday, Mehr 9, 23:59
-
-### Assignment 2: Exploratory Analysis and Data Cleaning
-* On the database of your choince, perform Exploratory Data Analysis, Cleaning and Preprocessing.
-* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing) as a guideline.
-
-**Due date:** Monday, Mehr 19, 23:59
+The dataset contains over 60,000 orders, scores and transactions placed on Achareh for multiple services. Here's a sample:
+<img src="/ADS2021/assets/images/achareh_sample_data.png" style="border-radius:5%;height:360px;" width="auto">
