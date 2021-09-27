@@ -37,7 +37,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 **Due date:** Monday, Mehr 12, 23:59
 
 ### Assignment 2: Exploratory Analysis and Data Cleaning
-* On the database of your choince, perform Exploratory Data Analysis, Cleaning and Preprocessing.
+* On the database of your choice, perform Exploratory Data Analysis, Cleaning and Preprocessing.
 * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing) as a guideline.
 
 **Due date:** Monday, Mehr 19, 23:59
