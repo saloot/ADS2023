@@ -28,7 +28,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 # Homeworks and Due Dates
 
-### Assignment 1
+### Assignment 1: Pandas, Colab and Kaggle
 * 70 Points: Get familiar with Pandas and Jupyter/Colab/Kaggle Notebooks by completing the exercises on [this mini tutorial](https://www.kaggle.com/learn/pandas) on Kaggle (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing)) as an additional reference.
     * Once completed, email us the certificate so that we can celeberate together :)
 * 15 Points: Pick a dataset to work on for your homeworks (see some suggestions [here](/ADS2021/resources)).
