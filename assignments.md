@@ -29,11 +29,12 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 # Homeworks and Due Dates
 
 ### Assignment 1
-* Get familiar with Google Colab and Pandas (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing)).
-* Pick a dataset to work on for your homeworks (see the list [here](/ADS2021/resources)).
-* Form your groups and send us an email.
+* 70 Points: Get familiar with Pandas and Jupyter/Colab/Kaggle Notebooks by completing the exercises on [this mini tutorial](https://www.kaggle.com/learn/pandas) on Kaggle (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing)) as an additional reference.
+    * Once completed, email us the certificate so that we can celeberate together :)
+* 10 Points: Pick a dataset to work on for your homeworks (see some suggestions [here](/ADS2021/resources)).
+* 20 Points: Form your groups and send us an email (.
 
-**Due date:** Friday, Mehr 9, 23:59
+**Due date:** Monday, Mehr 12, 23:59
 
 ### Assignment 2: Exploratory Analysis and Data Cleaning
 * On the database of your choince, perform Exploratory Data Analysis, Cleaning and Preprocessing.
