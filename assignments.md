@@ -38,6 +38,16 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 ### Assignment 2: Exploratory Analysis and Data Cleaning
 * On the database of your choice, perform Exploratory Data Analysis, Cleaning and Preprocessing.
+    * 25 Points on the notebook running correctly.
+    * 10 Points on the variety of topics explored on the dataset (EDA)
+    * 20 Points on data cleaning (handling all missing, invalid or duplicate values)
+    * 20 Points on data preprocessing and converting everything to numerical values
+    * 10 Points on data normalization/standardization
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* **Bonus 40 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/data-cleaning) on Kaggle.
+    * Once completed, email us the certificate so that we can celeberate together :)
+
 * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing) as a guideline.
 
 **Due date:** Monday, Mehr 19, 23:59
