@@ -73,11 +73,11 @@ This is a [dataset](https://www.kaggle.com/worldbank/world-development-indicator
 
 Here's a sample:
 
-<img src="/ADS2021/assets/images/fashion_mnist_sample.png" style="border-radius:5%;height:360px;" width="auto">
+<img src="/ADS2021/assets/images/world_development_indicators_sample.png" style="border-radius:5%;height:360px;" width="auto">
 
 
 ### Other Datasets?
-<img src="/ADS2021/assets/images/world_development_indicators_sample.png" style="border-radius:5%;height:240px;" width="auto">
+<img src="/ADS2021/assets/images/question_mark.jpeg" style="border-radius:5%;height:240px;" width="auto">
 
 In case you have a dataset that you would like to work on during homeworks, we can discuss it offline and if the dataset is suitable, you can work on the dataset of your choice.
 Just send us [an email](mailto:saloot@gmail.com) and we will sort it out!
