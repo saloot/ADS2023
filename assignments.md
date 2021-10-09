@@ -50,4 +50,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing) as a guideline.
 
-**Due date:** Monday, Mehr 19, 23:59
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Saturday, Mehr 24, 23:59
