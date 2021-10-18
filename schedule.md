@@ -15,7 +15,7 @@ Here's the schedule for the course.
 | 1 | 3 - 9 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1pjlp63eZbRW_cRZKk0i9IB4BaX30JMzwiPygbX6zocY/edit?usp=sharing)	| Introduction to [Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1d2EkG4eZM_fU44yB7yXff7L-I0R4L9g0?usp=sharing) |
 | 2 | 10 - 16 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1DQT_IkVv3BTPcvxRom6lQEBlUZENCaOhSDtErxil-uc/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing)	|
 | 3 | 17 - 23 Mehr | [Data Visualization](https://docs.google.com/presentation/d/1uDjOJKeb9TLiddjIxTXVM-V8zQQP1c-PcF32euVinCY/edit?usp=sharing) | [Visualization Notebook](https://colab.research.google.com/drive/1fzVLZ5Ch1RwRFQgs65ZnhbYxDbrttdG-?usp=sharing) |
-| 4 | 24 - 30 Mehr | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
+| 4 | 24 - 30 Mehr | [Feature Engineering and Dimensionality Reduction](https://docs.google.com/presentation/d/16KufpInvkwppJVdqxgHqeCib7SBU1_HLKlG1_jrNSrQ/edit?usp=sharing) | [Feature Engineering Notebook](https://colab.research.google.com/drive/1L7BAupNGg0QwkiOpx9tgNMuraR5J9thY?usp=sharing) |
 | 5 | 1 - 7 Aban | Different Problem/Learning Types | Examining Different Datasets |
 | 6 | 8 - 14 Aban | Regression Problems | Regression Methods Notebook |
 | 7 | 15 - 21 Aban | Classification Problems | Classification Methods Notebook |
