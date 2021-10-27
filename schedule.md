@@ -19,7 +19,7 @@ Here's the schedule for the course.
 | 5 | 1 - 7 Aban | [Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/11CR2WTKLWwhBgyGwZE5X7iCyG19wa0VTIglXQzc367Q/edit?usp=sharing)| Accuracy Measures in scikit-earn|
 | 6 | 8 - 14 Aban | Regression Problems | Regression Methods Notebook |
 | 7 | 15 - 21 Aban | Classification Problems | Classification Methods Notebook |
-| 8 | 22 - 28 Aban | Multiclass/Multilabel Classification and Different Accuracy Metrics | Extension of Classification Methods Notebook |
+| 8 | 22 - 28 Aban | Multiclass/Multilabel Classification | Extension of Classification Methods Notebook |
 | 9 | 29 - 5 Azar | Overfitting and Technics to Mitigate It | Overfitting and Croass Validation Notebook |
 | 10 | 6 - 12 Azar | Neural Networks and  Intro to Deep Learning | Neural Networks Notebook |
 | 11 | 13 - 19 Azar | Deep Learning Application: Image Classification | Image Classification Notebook  |
