@@ -103,7 +103,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 ### Assignment 5: Accuracy Measures
-* On the database of your choice, pratice measuring the following accuracy measures:
+* On the database of your choice, practice measuring the following accuracy measures:
     * 25 Points on the notebook running correctly.
     * 20 Points: Regression Accuracy Metrics:
         * 5 Points: measuring Mean Squared Error (MSE)
@@ -133,7 +133,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 ### Assignment 6: Regression Methods
-* On the database of your choice, pratice measuring the following accuracy measures:
+* On the database of your choice, practice measuring the following accuracy measures:
     * 25 Points on the notebook running correctly.
     * 10 Points: Linear Regression (with R2-score above 0.8)
     * 10 Points: Linear Regression (with R2-score above 0.85)
