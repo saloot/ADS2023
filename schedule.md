@@ -18,7 +18,7 @@ Here's the schedule for the course.
 | 4 | 24 - 30 Mehr | [Feature Engineering and Dimensionality Reduction](https://docs.google.com/presentation/d/16KufpInvkwppJVdqxgHqeCib7SBU1_HLKlG1_jrNSrQ/edit?usp=sharing) | [Feature Engineering Notebook](https://colab.research.google.com/drive/1L7BAupNGg0QwkiOpx9tgNMuraR5J9thY?usp=sharing) |
 | 5 | 1 - 7 Aban | [Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/11CR2WTKLWwhBgyGwZE5X7iCyG19wa0VTIglXQzc367Q/edit?usp=sharing)| [Accuracy Measures and Scikit-learn](https://colab.research.google.com/drive/1FnsgqFm7UygRhUXnPVRn3cYAN_1as3a6?usp=sharing) |
 | 6 | 8 - 14 Aban | [Regression Methods](https://docs.google.com/presentation/d/1dVIu_K9d9H8AEOHwpI8ZWPks00pklRPsP1zedmK7VIE/edit?usp=sharingyh) | [Regression Methods Notebook](https://colab.research.google.com/drive/10cFiEIoORgXdyHISPJw-A2jsV-KZRAGx?usp=sharing) |
-| 7 | 15 - 21 Aban | Classification Problems | Classification Methods Notebook |
+| 7 | 15 - 21 Aban | [Classification Problems](https://docs.google.com/presentation/d/1YwQmqWMrd1kAYSROMSavIXkOT985E_BM8DosB7cI73M/edit?usp=sharing) | Classification Methods Notebook |
 | 8 | 22 - 28 Aban | Multiclass/Multilabel Classification | Extension of Classification Methods Notebook |
 | 9 | 29 - 5 Azar | Overfitting and Technics to Mitigate It | Overfitting and Croass Validation Notebook |
 | 10 | 6 - 12 Azar | Neural Networks and  Intro to Deep Learning | Neural Networks Notebook |
