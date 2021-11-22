@@ -20,11 +20,12 @@ Here's the schedule for the course.
 | 6 | 8 - 14 Aban | [Regression Methods](https://docs.google.com/presentation/d/1dVIu_K9d9H8AEOHwpI8ZWPks00pklRPsP1zedmK7VIE/edit?usp=sharingyh) | [Regression Methods Notebook](https://colab.research.google.com/drive/10cFiEIoORgXdyHISPJw-A2jsV-KZRAGx?usp=sharing) |
 | 7 | 15 - 21 Aban | [Classification Methods](https://docs.google.com/presentation/d/1YwQmqWMrd1kAYSROMSavIXkOT985E_BM8DosB7cI73M/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1NboSeFrXDwdKvETM7bsF628aPwKo2nPS?usp=sharing) |
 | 8 | 22 - 28 Aban | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/18I85eEFIkO10tq8DT2oadDAQ_CytMEY0Sz59DO6KKy8/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1BUZC2fZN28KRwOLUWgFIZueUK78BUkZX?usp=sharing) |
-| 9 | 29 - 5 Azar | Overfitting and Technics to Mitigate It | Overfitting and Croass Validation Notebook |
-| 10 | 6 - 12 Azar | Neural Networks and  Intro to Deep Learning | Neural Networks Notebook |
-| 11 | 13 - 19 Azar | Deep Learning Application: Image Classification | Image Classification Notebook  |
-| 12 | 20 - 26 Azar | Deep Learning Application: NLP | NLP Notebook |
-| 13 | 27 - 3 Dey | Model Explainability | Model Explaination Notebook |
-| 14 | 4 - 10 Dey | Real World Challenges | Model Deployment Notebook |
+| 9 | 29 - 5 Azar | Model Tuning, Overfitting and Technics to Mitigate It | Model Tuning and Overfitting Mitigation Notebook |
+| 10 | 6 - 12 Azar | Neural Networks | Neural Networks Notebook |
+| 11 | 13 - 19 Azar | Deep Learning | Deep Learning Notebook  |
+| 12 | 20 - 26 Azar | Deep Learning Application: Image Classification | Image Classification Notebook  |
+| 13 | 27 - 3 Dey | Deep Learning Application: NLP | NLP Notebook |
+| 14 | 4 - 10 Dey | Model Explainability | Model Explaination Notebook |
+| 14 | 11 - 17 Dey | Real World Challenges | Model Deployment Notebook |
 | 15 | * - * Dey | Final Projects Presentation | Final Projects Presentation |
 
