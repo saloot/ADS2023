@@ -183,7 +183,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 ### Assignment 8: Multiclass Classification Methods
-* On the database of your choice, perform **mmulticlass** classification (with at least 4 classes):
+* On the database of your choice, perform **multiclass** classification (with at least 4 classes):
     * 25 Points on the notebook running correctly.
     * 10 Points: Multiclass SVM (with F1-score above 2.5/number_of_classes)
     * 15 Points: Multiclass Logistic Regression (with F1-score above 2.5/number_of_classes)
@@ -203,7 +203,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
  
 * 30 Bonus points: On the dataset we used in the lab session (for predicting the position of the players being one of possible *12*), achieve an F1 score above 0.6 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
 
-* All scores are easured on test set, which should be 20% of the whole dataset
+* All scores are measured on test set, which should be 20% of the whole dataset
 * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1BUZC2fZN28KRwOLUWgFIZueUK78BUkZX?usp=sharing) as a guideline.
 
 **IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
