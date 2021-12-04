@@ -21,7 +21,7 @@ Here's the schedule for the course.
 | 7 | 22 - 28 Aban | [Classification Methods](https://docs.google.com/presentation/d/1YwQmqWMrd1kAYSROMSavIXkOT985E_BM8DosB7cI73M/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1NboSeFrXDwdKvETM7bsF628aPwKo2nPS?usp=sharing) |
 | 8 | 29 - 5 Azar | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/18I85eEFIkO10tq8DT2oadDAQ_CytMEY0Sz59DO6KKy8/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1BUZC2fZN28KRwOLUWgFIZueUK78BUkZX?usp=sharing) |
 | 10 | 6 - 12 Azar | [Neural Networks](https://docs.google.com/presentation/d/1UtQ6-F5svjhclKEPJmr8AGr8K846Mx4VIIZ6Ead6gwA/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1NX4NnTOxEVQkNRBadezTvMI9o5t6NSC3?usp=sharing) |
-| 11 | 13 - 19 Azar | Deep Learning | Deep Learning Notebook  |
+| 11 | 13 - 19 Azar | [Deep Learning](https://docs.google.com/presentation/d/1ME6PuQNIcqE2hjiAJR_QpLZ_rssN5OsTo5RKvwJKins/edit?usp=sharing) | Deep Learning Notebook  |
 | 12 | 20 - 26 Azar | Deep Learning Application: Image Classification | Image Classification Notebook  |
 | 13 | 27 - 3 Dey | Deep Learning Application: NLP | NLP Notebook |
 | 14 | 4 - 10 Dey | Model Tuning, Overfitting and Technics to Mitigate It | Model Tuning and Overfitting Mitigation Notebook |
