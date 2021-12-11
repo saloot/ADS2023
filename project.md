@@ -10,11 +10,12 @@ For the course's final project, you have two options
 1. Select a paper and reproduce their results
 2. Work on a problem you like
 
+We also have a 20 bonus points on the final project's grade. Find out more at the bottom of this page.
+
 Important Notes:
 * Note that 30% of the project grade is for the final presentation.
 * The projects should be **done individually**.
 * Please finalize your choice by **Sunday 28 Azar, 1400**.
-
 
 
 ## Reproducing the Result of a Paper
@@ -51,3 +52,20 @@ For the first option, you can select a paper from the list below, and then repro
 
 ## Working on a Problem of Your Own
 If you have a particular problem/dataset in mind, please [send us an email](mailto:saloot@gmail.com)  **with your shot proposal**. Once it is approved, you can start ahead and work on the project.
+
+
+
+## Bonus Points
+You can also enter [this competetion on Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/leaderboard), which is for predicting the future sales of products.
+
+Here's how the points are allocated:
+* 2 points: Each indivdiual with a successful entry
+* Points on scoring compared to class-mates:
+    * 7 Points: best result among class mates
+    * 4 Points: second-best result among class mates
+    * 2 Points: second-best result among class mates
+* Points on scoring compared to other contestants:
+    * 11 Points: result scored among top 100 contestants
+    * 8 Points: result scored among top 300 contestants
+    * 4 Points: result scored among top 1000 contestants
+    * 2 Points: result scored among top 5000 contestants
