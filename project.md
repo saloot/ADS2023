@@ -41,12 +41,12 @@ For the first option, you can select a paper from the list below, and then repro
 | Regression | Age and Life Expectancy Prediction | Age and life expectancy clocks based on machine learning analysis of mouse frailty | [Link](https://www.nature.com/articles/s41467-020-18446-0.pdf) |
 | Regression | Weather Forecasting | WeatherBench: A benchmark dataset for data-driven weather forecasting | Link(https://arxiv.org/pdf/2002.00469v3.pdf) |
 | Regression | Diabetes Preidction | Tesco Grocery 1.0, a large-scale dataset of grocery purchases in Londo | Link(https://www.nature.com/articles/s41597-020-0397-7) |
-| Image Analysis  | Unsupervised Learning of Visual Features | Deep Clustering for Unsupervised Learning of Visual Features | Link(https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) |
+| Image Analysis  | Unsupervised Learning of Visual Features | Deep Clustering for Unsupervised Learning of Visual Features | [Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) |
 | Image Analysis  | Efficient CNN for Mobile Vision Applications | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [Link](https://arxiv.org/pdf/1704.04861v1.pdf) |
 | Image Analysis  | Image Captioning | Image Captioning with Deep Bidirectional LSTMs | Link(https://dl.acm.org/doi/pdf/10.1145/2964284.2964299?casa_token=OFrLjyhBuRAAAAAA:TWXvtdilCVpz0cUqBo0m9ca-RD172VRLztRW4JTlgdIgX-cAWuyPOayGqmROPxJDNqP7wP1q7IWN) |
-| Natural Language Processing  | COVID-19 Fake News Detection | Fighting an Infodemic: COVID-19 Fake News Dataset | Link(https://arxiv.org/pdf/2011.03327v4.pdf) |
+| Natural Language Processing  | COVID-19 Fake News Detection | Fighting an Infodemic: COVID-19 Fake News Dataset | [Link](https://arxiv.org/pdf/2011.03327v4.pdf) |
 | Natural Language Processing  | Fake News Detection System | Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection | [Link](https://arxiv.org/abs/1705.00648) |
-| Unsupervised Learning | Identifying Crime Localities using k-means | Crime Analysis using K-Means Clustering | Link(https://www.researchgate.net/publication/269667894_Crime_Analysis_using_K-Means_Clustering) |
+| Unsupervised Learning | Identifying Crime Localities using k-means | Crime Analysis using K-Means Clustering | [Link](https://www.researchgate.net/publication/269667894_Crime_Analysis_using_K-Means_Clustering) |
 | Unsupervised Learning | Diabetes Preidction | Unsupervised Machine Learning via Transfer Learning and K-means Clustering to Classify Materials Image Data | [Link](https://paperswithcode.com/paper/unsupervised-machine-learning-via-transfer) |
 
 
