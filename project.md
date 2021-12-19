@@ -45,6 +45,8 @@ For the first option, you can select a paper from the list below, and then repro
 | Image Analysis  | Image Captioning | Image Captioning with Deep Bidirectional LSTMs | [Link](https://dl.acm.org/doi/pdf/10.1145/2964284.2964299?casa_token=OFrLjyhBuRAAAAAA:TWXvtdilCVpz0cUqBo0m9ca-RD172VRLztRW4JTlgdIgX-cAWuyPOayGqmROPxJDNqP7wP1q7IWN) |
 | Natural Language Processing  | COVID-19 Fake News Detection | Fighting an Infodemic: COVID-19 Fake News Dataset | [Link](https://arxiv.org/pdf/2011.03327v4.pdf) |
 | Natural Language Processing  | Fake News Detection System | Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection | [Link](https://arxiv.org/abs/1705.00648) |
+| Natural Language Processing  | Sentiment Analysis | Classification of tweets data based on polarity using improved RBF kernel of SVM | [Link](https://link.springer.com/article/10.1007/s41870-019-00409-4) |
+| Natural Language Processing  | Machine Translation | Unsupervised Neural Machine Translation with Weight Sharing | [Link](https://arxiv.org/pdf/1804.09057.pdf) |
 | Unsupervised Learning | Identifying Crime Localities using k-means | Crime Analysis using K-Means Clustering | [Link](https://www.researchgate.net/publication/269667894_Crime_Analysis_using_K-Means_Clustering) |
 | Unsupervised Learning | Diabetes Preidction | Unsupervised Machine Learning via Transfer Learning and K-means Clustering to Classify Materials Image Data | [Link](https://paperswithcode.com/paper/unsupervised-machine-learning-via-transfer) |
 
