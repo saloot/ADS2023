@@ -301,3 +301,35 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Azar 29, 23:59
+
+
+### Assignment 12: Natural Langiage Processing using Deep Neural Networks
+* On the database of your choice, practice NLP using deep neural networks
+* In all cases, please use 3-fold cross validation and use the average validation accuracy as the measure to tune.
+    * 25 Points on the notebook running correctly.
+    * 15 Points: Preprocessing
+        * 5 Points: Tokenization
+        * 5 Points: Truncation and padding
+        * 5 Points: Embdedding
+    * 15 Points: create and train a network 9(at least 4 layers)
+        * With RNNs
+        * With LSTMs
+        * With GTUs
+    * 10 Points: Performance Tuning (for each of the following tasks, please **try at least 3 different options**):
+        * Try different number of layers/number of recurrent units
+        * Try different learning rates
+        * Try different optimization methods
+        * Try different batch sizes
+    * 20 Points: Perform transfer learning using **two** different approaches
+        * Usually, transfer learning comes in the form of different embeddings or language models.
+        * You can check [this link](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9) or [TnesorFlow Hub](https://tfhub.dev/) to get started.
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1b77S7EAFNbaukIURUzuuc2Gl1n3s9hce?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Dey 06, 23:59
