@@ -24,7 +24,7 @@ Here's the schedule for the course.
 | 11 | 13 - 19 Azar | [Deep Learning](https://docs.google.com/presentation/d/1ME6PuQNIcqE2hjiAJR_QpLZ_rssN5OsTo5RKvwJKins/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1qB0kzFE3AcltmweOoieG0EUHM1qBEazB?usp=sharing)  |
 | 12 | 20 - 26 Azar | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/17ivcvG76zOOb2gtxvL5mttpfHU7bp75CaI5xWPehWRk/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/1HJnXBFS2rMro0nMYNEILZjgPq-vusU3f?usp=sharing) |
 | 13 | 27 - 3 Dey | Deep Learning Application: NLP | [NLP Notebook](https://colab.research.google.com/drive/1b77S7EAFNbaukIURUzuuc2Gl1n3s9hce?usp=sharing) |
-| 14 | 4 - 10 Dey | Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability | Autoencoders, GANs and Model Explainability Notebook |
+| 14 | 4 - 10 Dey | [Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability](https://docs.google.com/presentation/d/1zrtdNjS1ZFfvfHbWxrgt4hy2cIlRsFAKo-UCwLBFjiY/edit?usp=sharing) | Autoencoders, GANs and Model Explainability Notebook |
 | 14 | 11 - 13 Dey | Imbalanced Classes, Pipelines and Real World Challenges| Pipelines Notebook |
 | 15 | 14 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
 | 16 | 3 Bahman | Final Exam
