@@ -314,7 +314,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
     * 15 Points: create and train a network 9(at least 4 layers)
         * With RNNs
         * With LSTMs
-        * With GTUs
+        * With GRUs
     * 10 Points: Performance Tuning (for each of the following tasks, please **try at least 3 different options**):
         * Try different number of layers/number of recurrent units
         * Try different learning rates
