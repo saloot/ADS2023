@@ -71,7 +71,7 @@ Here's how the points are allocated:
     * 2 Points: result scored among top 5000 contestants
 
 
-# Project's Presentation
+<h1 id="presentation"> Project's Presentation </h1>
 Part of the final project is presenting your work in the class. 
 * You'll have 15 minutes to present your project (excluding Q&A)
 * The presentation should be done in the form of slides, prepared by Powerpoint, Google Slides, Keynote, PDF, etc. In other words, you are free to choose the tool you use to prepare slides, but they need to be well-structured.
