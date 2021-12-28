@@ -303,7 +303,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 **Due date:** Monday, Azar 29, 23:59
 
 
-### Assignment 12: Natural Langiage Processing using Deep Neural Networks
+### Assignment 12: Natural Language Processing using Deep Neural Networks
 * On the database of your choice, practice NLP using deep neural networks
 * In all cases, please use 3-fold cross validation and use the average validation accuracy as the measure to tune.
     * 25 Points on the notebook running correctly.
