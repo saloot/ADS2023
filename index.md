@@ -43,7 +43,7 @@ There is no required textbook for this course. But the students are expected to 
 * Final Project: 40%
     * Notebook (runs correctly and does the task): 70 Points
     * Presentation (runs correctly and does the task): 30 Points
-        * Of the 30 points of the presentation, 20 comes from other groups!
+        * Of the 30 points of the presentation, 10 comes from other groups!
 * Final Exam: 20%
 
 * We *might* have a bonus of upto 10% for participation in a Kaggle contest! More on that later on
