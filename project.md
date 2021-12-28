@@ -13,10 +13,9 @@ For the course's final project, you have two options
 We also have a 20 bonus points on the final project's grade. Find out more at the bottom of this page.
 
 Important Notes:
-* Note that 30% of the project grade is for the final presentation.
+* 30% of the project grade is for the final presentation.
 * The projects should be **done individually**.
 * Please finalize your choice by **Sunday 28 Azar, 1400**.
-
 
 ## Reproducing the Result of a Paper
 For the first option, you can select a paper from the list below, and then reproduce their results. Please go through their abstract and select the paper of your choice by sending us an email.
@@ -70,3 +69,51 @@ Here's how the points are allocated:
     * 8 Points: result scored among top 300 contestants
     * 4 Points: result scored among top 1000 contestants
     * 2 Points: result scored among top 5000 contestants
+
+
+# Project's Presentation
+Part of the final project is presenting your work in the class. 
+* You'll have 15 minutes to present your project (excluding Q&A)
+* The presentation should be done in the form of slides, prepared by Powerpoint, Google Slides, Keynote, PDF, etc. In other words, you are free to choose the tool you use to prepare slides, but they need to be well-structured.
+    * Therefore, handwritten notes or photos of handwritten slides do **not** qualify ;) 
+
+## Grading
+As mentioned above, from the 100 points for the final project, 30 points is dedicated to the final presentation, broken down as follows:
+*  20 from the teaching staff
+*  7 from other classmates: we will conduct a poll at the end of each presentation and get feedback from your classmates.
+*  3 bonus points: participating in grading other classmate's presentation and giving them feedback
+
+
+The criteria for grading the presentations are as follows:
+* 30% on Structure (i.e. form):
+    * Punctuality: you have 15 minutes to present you work. Starting and finishing on time is crucial.
+    * Structure: your presentation  should have a title page, table of contents, main body and a conclusion.
+    * Looks: please choose proper font type, font size, colors (for fonts, images, background, etc.). Presentations are among the few places that **looks matter** ;)
+    * Conveying information/**Story telling**: no matter what you present, your goal is to convey some knowledge or information to your audience. In fact, the presentation is for your audience, as you know already what you want to say! So the more your audience understand your points, the closer you have gotten to your ultimate goal. So don't take this part lightly :)
+    * References: whatever you use from external resources (table/image/text/...) please make sure to put a reference in the slide or in the end of your presentation
+
+* 70% on the Content:
+    * The problem: please clearly explain the problem you have worked on.
+    * Its importance: tell us why this is an important problem (and the great things that could happen if it is solved!)
+    * Previous work on the topic: briefly review what others have done on this topic 
+    * Your approach: now that we are ready, explain what approach you (or the paper you are trying to reproduce) used to tackle the problem
+    * Results: share the results you've achieved with us and your intuition about them
+    * Conclusion and future work: summarize your achievements and maybe share some of the challenges ahead with the class
+
+By the way a lot of these points also apply in writing scientific papers or business proposals ;)
+
+## Some Resources to Help You
+Many think that presentation is actually an art, through which you can dazzle your audience, and a good presenter is an artist (think of Steve Jobs for instance).
+
+Here are some external resources to hopefully help you (and me of course!) to master this art:
+* [6 Tips for Mastering the Art of Presentation Skills](http://www.jaeurope.org/blog/344-business-volunteering/7-6-tips-for-mastering-the-art-of-presentation-skills.html)
+* [Susan McConnell (Stanford): Designing effective scientific presentations (Video)](https://www.youtube.com/watch?v=Hp7Id3Yb9XQ)
+* [The Art Of Making A Brilliant Presentation](https://www.linkedin.com/pulse/20140811033748-131598137-the-art-of-making-a-brilliant-presentation/)
+* [How to Make a Good PowerPoint Presentation (Tips from HubSpot's marketing team)](https://www.youtube.com/watch?v=grJ0FbpfvOw)
+* [Some sample presentation (scroll down to see them)](https://blog.hubspot.com/blog/tabid/6307/bid/6012/17-examples-of-great-presentation-design.aspx)
+    * I admit, some of them are really overkill for a class project. But they are good to get inspired.
+* [Ted talks](https://www.ted.com/) are also a great place to find interesting ideas, facts AND learn presentation skills from the msters!
+
+These were only a few suggestions. Feel free to search for other resources and share your findings with us :)
+
+
