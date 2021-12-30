@@ -332,4 +332,32 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
-**Due date:** Monday, Dey 06, 23:59
+**Due date:** Monday, Dey 13, 23:59
+
+
+### Assignment 13: Autoencoders, GANs and Explainable AI
+* Using the dataset for assignment 11 for image analysis:
+    * 5 Points: Create a dense autoencoder
+    * 10 Points: Using the convolutional architecture from assignment 11, create and train convolutional autoencoder
+    * 5 Points: Create and train a denoising autoencoder
+
+* 20 Points: Using CIFAR-10 dataset, create and train a Generative and adversarial Network (GAN).
+* Explainable AI: Using the convolutional architecture from assignment 11, explain *why* the model misclassified an image using:
+    * 10 Points: Grad-CAM
+    * 5 Points: SHAP
+    * 5 Points: LIME
+    * 5 Points: Eli5
+
+* 25 Points on the notebook running correctly.
+* 15 Points on having sufficient explanations and overall readability of the notebook
+
+* 20 Bonus Points: create and train a Variational AutoEncoder (VAE) to create images similar to Fashion MNIST dataset.
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1rP3YU9oFrLKm5ODOxEFDHFr1ZJagVemE?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Dey 13, 23:59
