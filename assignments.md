@@ -364,7 +364,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 ### Assignment 14: Imbalanced Data, Pipelines and AutoML
-* This is a bonus assignment!
+* **This is a bonus assignment!**
 * Using the dataset for assignment 7 or 8, where you had some *imbalanced classes*:
     * 5 Points: Create a data loading and cleaning pipeline using Pandas pipe
     * 5 Points: Create a preprocessing pipeline using Scikit-learn pipelines
