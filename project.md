@@ -113,6 +113,10 @@ Here are some external resources to hopefully help you (and me of course!) to ma
 * [Some sample presentation (scroll down to see them)](https://blog.hubspot.com/blog/tabid/6307/bid/6012/17-examples-of-great-presentation-design.aspx)
     * I admit, some of them are really overkill for a class project. But they are good to get inspired.
 * [Ted talks](https://www.ted.com/) are also a great place to find interesting ideas, facts AND learn presentation skills from the msters!
+    * Some of these influential talks are gathered [here](https://24slides.com/presentbetter/10-influential-presentations-ever-given).
+
+* There are some **bad examples** as well! [This link](https://24slides.com/presentbetter/bad-powerpoint-examples-you-should-avoid) gathered several examples, with tips on how to avoid them or improve the slides. 
+
 
 These were only a few suggestions. Feel free to search for other resources and share your findings with us :)
 
