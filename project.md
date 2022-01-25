@@ -121,7 +121,7 @@ Here are some external resources to hopefully help you (and me of course!) to ma
 These were only a few suggestions. Feel free to search for other resources and share your findings with us :)
 
 
-<h1 id="presentation"> Project's Report and Notebook </h1>
+<h1 id="report"> Project's Report and Notebook </h1>
 The other important part of final project is its report and notebook.
 * You must submit your compiled notebook (Google Colab/Jupyter notebook) by **Sunday, 10 Bahman 1400**, 23:59 Tehran Time.
     * The notebook should be well-commented and have **lots of explanation** about what different blocks of code do and why a particular algorithm/library is used.
