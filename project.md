@@ -166,3 +166,9 @@ Here are some resources to hopefully help all of us to master this art:
 * [A guide to writing an academic paper](https://www.washingtonpost.com/blogs/answer-sheet/post/a-guide-to-writing-an-academic-paper/2012/01/18/gIQAjGCTCQ_blog.html)
 * [Example of an Academic Paper in Graduate School](https://www.gradschools.com/get-informed/student-guide/academic-paper-example?__cf_chl_jschl_tk__=tC4Vf5NMJKmNhuZKfQy4U83Q.UzmPTBEXYjKk3Aqt5Y-1643144097-0-gaNycGzNCNE)
 
+
+Additionally, here are some examples of nice notebook/code examples (the codes themselves are not relevenat, but how the notebooks are structured overall might be helpful):
+* [12 Colab Notebooks that matter](https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0)
+* [15 Tips and Tricks to Use Jupyter Notebook More Efficiently](https://towardsdatascience.com/15-tips-and-tricks-to-use-jupyter-notebook-more-efficiently-ef05ede4e4b9)
+* [Awesome Colab Notebooks Collection for ML Experiments](https://github.com/amrzv/awesome-colab-notebooks)
+* [Some Colab Notebooks To Kickstart Your Machine Learning Journey](https://analyticsindiamag.com/colab-notebook-machine-learning/)
