@@ -141,6 +141,7 @@ The other important part of final project is its report and notebook.
 * In essence, think of the project's report as a mini-paper
     * In fact, I *strongly encourage* writing the report in English and as a separate PDF file, as you can extend it later to a full paper and submit it for peer review if you were interested.
 
+* Do not forget to **provide reference to any piece of code, text, image, etc.** that you reuse in your project.
 
 ## Grading
 As mentioned above, from the 100 points for the final project, 70 points is dedicated to the final notebook and report:
@@ -154,8 +155,14 @@ As mentioned above, from the 100 points for the final project, 70 points is dedi
     * 5 points: previous work
     * 5 points: the approach you have used
     * 5 points: results and how they compare to other approaches
+        * Clear and informative visualizatins help here a lot
 
-    
+## Some Resources to Help You
+Like presentation, wiring a clear and informative report/paper/article is considered an art by many. 
 
-
+Here are some resources to hopefully help all of us to master this art:
+* [How to Write an Effective Project Report in 7 Steps](https://www.brightwork.com/blog/7-steps-effective-report-writing)
+* [How to Write Good Academic Papers: Easy Guide for Beginners](https://pro-academic-writers.com/blog/academic-paper-writing)
+* [A guide to writing an academic paper](https://www.washingtonpost.com/blogs/answer-sheet/post/a-guide-to-writing-an-academic-paper/2012/01/18/gIQAjGCTCQ_blog.html)
+* [Example of an Academic Paper in Graduate School](https://www.gradschools.com/get-informed/student-guide/academic-paper-example?__cf_chl_jschl_tk__=tC4Vf5NMJKmNhuZKfQy4U83Q.UzmPTBEXYjKk3Aqt5Y-1643144097-0-gaNycGzNCNE)
 
