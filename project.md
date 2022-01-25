@@ -121,3 +121,41 @@ Here are some external resources to hopefully help you (and me of course!) to ma
 These were only a few suggestions. Feel free to search for other resources and share your findings with us :)
 
 
+<h1 id="presentation"> Project's Report and Notebook </h1>
+The other important part of final project is its report and notebook.
+* You must submit your compiled notebook (Google Colab/Jupyter notebook) by **Sunday, 10 Bahman 1400**, 23:59 Tehran Time.
+    * The notebook should be well-commented and have **lots of explanation** about what different blocks of code do and why a particular algorithm/library is used.
+    * **You must clearly show that you have understood the algorithms you have used** and not just copy-pasted them to achieve the results. So please take this part seriously.
+    * In other words, having learned the path towards achieving the paper/project's objective is as important (if not more important) as accomplishing the objective itself!
+
+* You need to submit a report as part of your final project as well. 
+    * This report can be a separate PDF file, or it can be integrated within the notebook itself
+* The report should contain suffcient information about the whole project, and it shoudl especially cover the following parts:
+    * Explaining the problem at hand
+    * Why the problem is important
+    * Previous work on the topic (mentioned in the paper or something you have encountered in the past)
+    * The approach you have used in the project (and the reason behind it) to solve the problem (or reproduce the resuults of the problem)
+    * Results of running the algorithm, and how it compares to other approaches or previous work
+    * Conclusions and future work
+
+* In essence, think of the project's report as a mini-paper
+    * In fact, I *strongly encourage* writing the report in English and as a separate PDF file, as you can extend it later to a full paper and submit it for peer review if you were interested.
+
+
+## Grading
+As mentioned above, from the 100 points for the final project, 70 points is dedicated to the final notebook and report:
+* 50 Points on the notebook:
+    * 15 points: notebook running correctly and without a bug
+    * 20 points: sufficient comments that clearly explains what each code block does, and that you have mastered the code you have used in the notebook
+    * 15 points: the results of the algorithm are correct, i.e. the code correctly reproduces the paper it is based on or if it is a personal project, the results are in line with project's definition and objectives.
+
+* 20 Points on the report:
+    * 5 points: explaining the problem at hand and its importance
+    * 5 points: previous work
+    * 5 points: the approach you have used
+    * 5 points: results and how they compare to other approaches
+
+    
+
+
+
