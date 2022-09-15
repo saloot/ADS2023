@@ -64,13 +64,13 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ADS2021/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2022/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
 
 ### Teaching Assistants
-<img src="/ADS2021/assets/images/MRGhoabkhlou.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2022/assets/images/MRGhoabkhlou.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
 [Mohammad Reza Ghobakhlou](https://www.linkedin.com/in/mohammadreza-ghobakhlou/)
 
