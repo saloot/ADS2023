@@ -79,4 +79,4 @@ There is no required textbook for this course. But the students are expected to 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Mohammad Reza Ghobakhlou](mailto:mohammadhossein.malekpour@gmail.com)
+[Mohammad Reza Ghobakhlou](mailto:ghobakhlou.mohammadreza@gmail.com)
