@@ -15,7 +15,7 @@ We also have a 15 bonus points on the final project's grade. Find out more at th
 Important Notes:
 * 20% of the project grade is for the final presentation.
 * The projects should be **done individually**.
-* Please finalize your choice by **30 Mehr 1401, 1401**.
+* Please finalize your choice by **30 Mehr 1401**.
 
 ## Reproducing the Result of a Paper
 For the first option, you can select a paper and then reproduce their results. Please go find 3 candidate papers and share them with us and we finalize one together.
