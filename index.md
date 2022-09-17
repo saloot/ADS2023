@@ -74,9 +74,14 @@ There is no required textbook for this course. But the students are expected to 
 
 [Mohammad Reza Ghobakhlou](https://www.linkedin.com/in/mohammadreza-ghobakhlou/)
 
+<img src="/ADS2022/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
+
+[Ebrahim Tahernejad](https://www.linkedin.com/in/ebrahim-tahernejad-50694768/)
+
 
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
 [Mohammad Reza Ghobakhlou](mailto:ghobakhlou.mohammadreza@gmail.com)
+[Ebrahim Tahernejad](mailto:ebrahimtahernejad@gmail.com)
