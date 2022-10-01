@@ -15,7 +15,7 @@ Here's the schedule for the course.
 |------|------|-----|-----|
 | 1 | 27 Shahrivar - 2 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1NLjeX2OUZLiyOcOjcWaNR8l7H0iFIbE78oer79AwPYc/edit?usp=sharing)	| Introduction to [Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1L8SU21inMVdB0OpXq2-dX-zNnjCPXRJY?usp=sharing) |
 | 2 | 3 - 9 Mehr | No Classes
-| 2 | 10 - 16 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1DQT_IkVv3BTPcvxRom6lQEBlUZENCaOhSDtErxil-uc/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1jOnp5rpJUkE4HGYbO-LZGZwFOVfGae7H?usp=sharing)  |
+| 2 | 10 - 16 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1jlfpfMkJJvVbYsuvTxJ4y1ke8etkPt-P3RCNjkfKMVg/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1pkdTMdJvUNr_5lpX7JY7U6-sofm2kKS7?usp=sharing)  |
 | 3 | 17 - 23 Mehr | Data Visualization | Visualization Notebook |
 | 4 | 24 - 30 Mehr | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
 | 5 | 1 - 7 Aban | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
