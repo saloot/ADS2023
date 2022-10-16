@@ -58,3 +58,28 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Mehr 25, 23:59
+
+
+### Assignment 3: Data Visualization
+* On the database of your choice, practice different data visualization techniques
+    * 25 Points on the notebook running correctly.
+    * 10 points: pie charts (5 points) and box plots (5 points)
+    * 10 Points: line charts (5 points) and stacked (multiple) line charts (5 points)
+    * 15 Points: bar charts (5 points), multiple bar charts (5 points) and stacked bar charts (5 points)
+    * 10 points: scatter plots (5 points) and bubble charts (5 points)
+    * 5 Points on showing the uncertainty (error bars) on a chart of your choice
+    * 10 Points on interactive charts using Plotly and/or Bokeh
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* **Bonus 40 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/data-visualization) on Kaggle.
+    * Once completed, send us the certificate via **Microsoft Teams assignment page** so that we can celeberate together :)
+
+* Please Make sure that all your charts have proper **title, axis range, axis labels and legends**.
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1be5YCofbcpgy3r6pOebiN8aWFAS46TlT?usp=sharing) as a guideline.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Aban 2, 23:59
+
