@@ -18,7 +18,7 @@ Here's the schedule for the course.
 | 3 | 10 - 16 Mehr | No Classes (Especial Circumstances :( )
 | 2 | 17 - 23 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1jlfpfMkJJvVbYsuvTxJ4y1ke8etkPt-P3RCNjkfKMVg/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1pkdTMdJvUNr_5lpX7JY7U6-sofm2kKS7?usp=sharing)  |
 | 3 | 24 - 30 Mehr | [Data Visualization](https://docs.google.com/presentation/d/1bCmo3ud0ymkALNRfudwz-hpSm9Ui8s1JPNYAFWs663E/edit?usp=sharing) | [Visualization Notebook](https://colab.research.google.com/drive/1be5YCofbcpgy3r6pOebiN8aWFAS46TlT?usp=sharing) |
-| 4 | 1 - 7 Aban | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
+| 4 | 1 - 7 Aban | [Feature Engineering and Dimensionality Reduction](https://docs.google.com/presentation/d/1gpAdDDIC0imBeZEuLARGkDuf1WfP-LYVQLsp6W2zE4Q/edit?usp=sharing) | [Feature Engineering Notebook](https://colab.research.google.com/drive/1luKBWJoz4SpF6JU8-LLCyKm8Sx5x2DwB?usp=sharing) |
 | 5 | 1 - 7 Aban | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
 | 6 | 8 - 14 Aban | Regression Methods | Regression Methods Notebook |
 | 7 | 15 - 21 Aban | Classification Methods | Classification Methods Notebook |
