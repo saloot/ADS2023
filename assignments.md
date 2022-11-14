@@ -156,3 +156,31 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Aban 23, 23:59
+
+
+### Assignment 7: Binary Classification Methods
+* On the database of your choice, practice measuring the following accuracy measures:
+    * 25 Points on the notebook running correctly.
+    * 5 Points: Logistic Regression for Classification (with F1-score above 0.75)
+    * 10 Points: SVM (with F1-score above 0.8)
+    * 5 Points: Kernel SVM (with F1-score above 0.8)
+    * 15 Points: KNN (with F1-score above 0.8)
+        * 10 Points on the algorithm implementation
+        * 5 Points: Tune for best number of neighbors (K)
+    * 15 Points: Decision Trees (with F1-score above 0.8)
+        * 10 Points on the algorithm implementation
+        * 5 Points: Tune for the best maximum depth to avoid overfitting
+    * 10 Points: Random Forests (with F1-score above 0.85)
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* 40 Bonus points: On the dataset we used in the lab session (for detecting diabetes), achieve an F1 score above 0.9 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
+
+* All scores are measured on test set, which should be 20% of the whole dataset
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1we-F7fXFYMKs_8OfgA-N4lSVdYyvbKxG?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Aban 30, 23:59
