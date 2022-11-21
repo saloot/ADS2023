@@ -24,9 +24,8 @@ Here's the schedule for the course.
 | 7 | 22 - 28 Aban | [Classification Methods](https://docs.google.com/presentation/d/1o3sBKNM0I13xyAT3EBmHwT6S9Vk01q6_OUxLtVfJPSk/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1we-F7fXFYMKs_8OfgA-N4lSVdYyvbKxG?usp=sharing) |
 | 8 | 29 Aban - 5 Azar | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1P8ssr_df9iSS55NjpqxZwClNowuPhQuNsK0CdzIuMgg/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1oOkdOwlo191R21jirGCTazJGxK9__gdr?usp=sharing) |
 | 10 | 6 - 12 Azar | Neural Networks | Neural Networks Notebook |
-| 11 | 13 - 20 Azar | Deep Learning | Deep Learning Notebook  |
-| 12 | 13 - 19 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
-| 13 | 20 - 26 Azar | Deep Learning Application: NLP | NLP Notebook |
+| 11 | 13 - 19 Azar | Deep Learning | Deep Learning Notebook  |
+| 12 | 20 - 26 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
 | 14 | 27 Azar - 3 Dey | Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability | Autoencoders, GANs and Model Explainability Notebook |
 | 15 | 3 - 9 Dey | Guest Speakers from Inudstry | - |
 | 15 | 10 - 16 Dey | Imbalanced Classes, Pipelines and Real World Challenges | Pipelines, Imablanced Data and AutoML Notebook |

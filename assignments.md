@@ -184,3 +184,35 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Aban 30, 23:59
+
+
+### Assignment 8: Multiclass Classification Methods
+* On the database of your choice, perform **multiclass** classification (with at least 4 classes):
+    * 25 Points on the notebook running correctly.
+    * 10 Points: Multiclass SVM (with F1-score above 2.5/number_of_classes)
+    * 15 Points: Multiclass Logistic Regression (with F1-score above 2.5/number_of_classes)
+        * 5 Points: using OVR technique
+        * 5 Points: using multinomial approach
+        * 5 Points: calculate log loss for the output
+    * 10 Points: Multiclass KNN (with F1-score above 2.5/number_of_classes)
+        * 5 Points on the algorithm implementation
+        * 5 Points: Tune for best number of neighbors (K)
+    * 5 Points: Multiclass Decision Trees (with F1-score above 2.5/number_of_classes)
+    * 15 Points: Boosting Techniques (with F1-score above 2.5/number_of_classes)
+        * 5 Points: XGBoost
+        * 5 Points: LightGBM
+        * 5 Points: Adaboost or Catboost
+    * 5 Points: Grid search to tune one of the boosting methods above
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+ 
+* 30 Bonus points: On the dataset we used in the lab session (for predicting the position of the players being one of possible *12*), achieve an F1 score above 0.6 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
+
+* All scores are measured on test set, which should be 20% of the whole dataset
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1oOkdOwlo191R21jirGCTazJGxK9__gdr?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Azar 7, 23:59
