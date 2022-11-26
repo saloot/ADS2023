@@ -23,7 +23,7 @@ Here's the schedule for the course.
 | 6 | 15 - 21 Aban | [Regression Methods](https://docs.google.com/presentation/d/1c4m84qULz4PmZGf18kY3v_PRuyD-DGSkxZAnDzMHWKs/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1Qos7Lct-3T3cUZNVMt7k5o9tg39ZZyln?usp=sharing) |
 | 7 | 22 - 28 Aban | [Classification Methods](https://docs.google.com/presentation/d/1o3sBKNM0I13xyAT3EBmHwT6S9Vk01q6_OUxLtVfJPSk/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1we-F7fXFYMKs_8OfgA-N4lSVdYyvbKxG?usp=sharing) |
 | 8 | 29 Aban - 5 Azar | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1P8ssr_df9iSS55NjpqxZwClNowuPhQuNsK0CdzIuMgg/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1oOkdOwlo191R21jirGCTazJGxK9__gdr?usp=sharing) |
-| 10 | 6 - 12 Azar | Neural Networks | Neural Networks Notebook |
+| 10 | 6 - 12 Azar | [Neural Networks](https://docs.google.com/presentation/d/1pc4hUu2vfI503A3u7RV9rYc6QHFLY-jb9PyWZ24v5ao/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1dZWO6HKG5XBaTvuzDS5fjAbqdsiaidVG?usp=sharing) |
 | 11 | 13 - 19 Azar | Deep Learning | Deep Learning Notebook  |
 | 12 | 20 - 26 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
 | 14 | 27 Azar - 3 Dey | Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability | Autoencoders, GANs and Model Explainability Notebook |
