@@ -216,3 +216,36 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Azar 7, 23:59
+
+
+### Assignment 9: Neural Networks
+* On the database of your choice, practice using neural networks:
+    * 25 Points on the notebook running correctly.
+    * 10 Points: Multilayer Perceptron with Scikit-Learn
+        * 5 Points: binary classification with F1-score above 0.75
+        * 5 Points: regression with R2-score above 0.8
+    * 15 Points: 4-layer feedforward network with Keras
+        * 10 Points: binary classification with F1-score above 0.75
+        * 5 Points: regression with R2-score above 0.8
+    * 20 Points: 4-layer feedforward network with PyTorch
+        * 10 Points: binary classification with F1-score above 0.75
+        * 10 Points: regression with R2-score above 0.8
+    * 15 Points: 4-layer **non-sequential** feedforward network with Keras
+        * 5 Points: binary classification with F1-score above 0.75
+        * 5 Points: regression with R2-score above 0.8
+    
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+    
+    * Bonus 15 Points (if dataset has time-series like features) 3-layer Recurrent Neural Network with Keras
+        * 10 Points: binary classification with F1-score above 0.75
+        * 5 Points: regression with R2-score above 0.8
+
+* All scores are measured on test set, which should be 20% of the whole dataset
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1dZWO6HKG5XBaTvuzDS5fjAbqdsiaidVG?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Azar 14, 23:59
