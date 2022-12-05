@@ -254,7 +254,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 ### Assignment 10: Deep Neural Networks
 * On the database of your choice, practice working with neural networks and tuning them
-* You can use the neural networ you developed in the previous assignment (using Keras)
+* You can use the neural network you developed in the previous assignment (using Keras)
 * The problem you work on in this exercise can be either regression or classification, whichever you find more suitable (one of them is sufficient)
 * For each of the following tasks, please **try at least 5 different options**
 * In all cases, please use 4-fold cross validation and use the average validation accuracy as the measure to tune.
