@@ -25,7 +25,7 @@ Here's the schedule for the course.
 | 8 | 29 Aban - 5 Azar | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1P8ssr_df9iSS55NjpqxZwClNowuPhQuNsK0CdzIuMgg/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1oOkdOwlo191R21jirGCTazJGxK9__gdr?usp=sharing) |
 | 10 | 6 - 12 Azar | [Neural Networks](https://docs.google.com/presentation/d/1pc4hUu2vfI503A3u7RV9rYc6QHFLY-jb9PyWZ24v5ao/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1dZWO6HKG5XBaTvuzDS5fjAbqdsiaidVG?usp=sharing) |
 | 11 | 13 - 19 Azar | [Deep Learning](https://docs.google.com/presentation/d/14ASE4nLSn3VWKo1YN0WC8tpt2w7aQyBI-vyN7gOS2RU/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1R7eP1v07NsqXz1qnSqvgT5g7xdfjLLId?usp=sharing)  |
-| 12 | 20 - 26 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
+| 12 | 20 - 26 Azar | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1JamfIB7JDRWvEcTATHO3WXade2dOjnirWTh4gcPGpj4/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/1rFirqt5-FWiANfNFufnhdNpFSpzBrZdB?usp=sharing) |
 | 14 | 27 Azar - 3 Dey | Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability | Autoencoders, GANs and Model Explainability Notebook |
 | 15 | 3 - 9 Dey | Guest Speakers from Inudstry | - |
 | 15 | 10 - 16 Dey | Imbalanced Classes, Pipelines and Real World Challenges | Pipelines, Imablanced Data and AutoML Notebook |
