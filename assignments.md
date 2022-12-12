@@ -280,3 +280,29 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Azar 21, 23:59
+
+
+### Assignment 11: Convolutional Neural Networks, Transfer Learning and Data Augmentation
+* On the database of your choice, practice image classification using convolutional neural networks
+* For each of the following tasks, please **try at least 3 different options**.
+* In all cases, please use 3-fold cross validation and use the average validation accuracy as the measure to tune.
+    * 25 Points on the notebook running correctly.
+    * 10 Points: Creating a convolutional network with Keras (with at least two layers of convolution layer)
+    * 20 Points: Tuning the above network for:
+        * 5 Points: Tuning the kernel size (i.e. the size of the receptive field) for convolutional layers
+        * 5 Points: Tuning the stride for convolutional layers
+        * 5 Points: Tuning the pooling size (i.e. the size of the receptive field) for pooling layers
+        * 5 Points: Tuning the stride for pooling layers
+    
+    * 10 Points: Perform data augmentation and train your model above using the ImageGenerator class 
+    * 20 Points: Perform transfer learning using **two** of the available models in Keras applications (e.g. VGG19, ResNet, EfficientNet, etc.)    
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1rFirqt5-FWiANfNFufnhdNpFSpzBrZdB?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Azar 28, 23:59
