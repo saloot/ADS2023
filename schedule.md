@@ -28,7 +28,7 @@ Here's the schedule for the course.
 | 12 | 20 - 26 Azar | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1JamfIB7JDRWvEcTATHO3WXade2dOjnirWTh4gcPGpj4/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/1rFirqt5-FWiANfNFufnhdNpFSpzBrZdB?usp=sharing) |
 | 13 | 27 Azar | Guest Speakers from Inudstry | - |
 | 14 | 29 Azar - 9 Dey | [Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability](https://docs.google.com/presentation/d/1KZ7s5vSd_zbqgsESS8JnhU7iSzWk7Hw6tkIuvR1-yCA/edit?usp=sharing) | [Autoencoders, GANs and Model Explainability Notebook](https://colab.research.google.com/drive/1OaKPElm2TxBE2BhoBpNOH77C_DEWUh27?usp=sharing) |
-| 15 | 10 - 16 Dey | Imbalanced Classes, Pipelines and Real World Challenges | Pipelines, Imablanced Data and AutoML Notebook |
+| 15 | 10 - 16 Dey | [Imbalanced Classes, Pipelines and Real World Challenges](https://docs.google.com/presentation/d/1UjdR6ijZmGxB2j9IWTYL2AXpY5o1hv_DCXIfUevXS4g/edit?usp=sharing) | [Pipelines, Imablanced Data and AutoML Notebook](https://colab.research.google.com/drive/1ENHFHyCBiRBQH0aZVWU2Qa-iMehuJFji?usp=sharing) |
 | 15 | 18 - 21 Dey | Final Projects Presentation | Final Projects Presentation |
 | 16 | 10 Bahman | Final Exam
 
