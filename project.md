@@ -65,8 +65,8 @@ Here's how the points are allocated:
 * Points on scoring compared to other contestants:
     * 8 Points: result scored among top 100 contestants
     * 5 Points: result scored among top 300 contestants
-    * 3 Points: result scored among top 1000 contestants
-    * 1 Points: result scored among top 5000 contestants
+    * 3 Points: result scored among top 500 contestants
+    * 1 Points: result scored among top 1000 contestants
 
 
 <h1 id="presentation"> Project's Presentation </h1>
