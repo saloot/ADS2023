@@ -17,9 +17,10 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 * Homeworks can be done in a group of 2 (and we strongly recommend it!). 
 
 * You will be graded according to the following criteria:
-    * Notebook runs without a problem: 25%
-    * It solves/addresses the problem: 60%
-    * It is clear and well-commented: 15%
+    * Notebook runs without a problem: 10%
+    * It solves/addresses the problem: 55%
+    * It is clear and well-commented: 40% 
+        * This last part is crucial and detailed explanations are required for the submitted notebooks
 
 
 * Grades will be available within 10 days.
@@ -36,6 +37,6 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 * 15 Points: Pick a dataset to work on for your homeworks (see some suggestions [here](/ADS2023/resources)).
 * 15 Points: Form your groups and send us an email.
 
-**Due date:** Monday, Mehr 2, 23:59
+**Due date:** Monday, Mehr 9, 23:59
 
 
