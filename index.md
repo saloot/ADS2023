@@ -70,9 +70,9 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="/ADS2022/assets/images/MRGhoabkhlou.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2022/assets/images/Armin_tourajmehr.jpg" style="border-radius:50%;height:160px;" width="auto">
 
-[Mohammad Reza Ghobakhlou](https://www.linkedin.com/in/mohammadreza-ghobakhlou/)
+[Armin Tourajmehr](https://www.linkedin.com/in/armin-tourajmehr-a5ab36180/)
 
 <img src="/ADS2022/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
 
@@ -83,5 +83,5 @@ There is no required textbook for this course. But the students are expected to 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Mohammad Reza Ghobakhlou](mailto:ghobakhlou.mohammadreza@gmail.com)
+[Armin Tourajmehr](armin.tourajmehr@gmail.com)
 [Ebrahim Tahernejad](mailto:ebrahimtahernejad@gmail.com)
