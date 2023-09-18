@@ -1,12 +1,12 @@
 ---
 title: Applied Data Science
-subtitle: Khatam University, Fall 2022
+subtitle: Khatam University, Fall 2023
 layout: page 
 show_sidebar: false
 ---
 
 # About This Course
-<img src="/ADS2022/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ADS2023/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
@@ -64,17 +64,17 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ADS2022/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
 
 ### Teaching Assistants
-<img src="/ADS2022/assets/images/MRGhoabkhlou.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/MRGhoabkhlou.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
 [Mohammad Reza Ghobakhlou](https://www.linkedin.com/in/mohammadreza-ghobakhlou/)
 
-<img src="/ADS2022/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Ebrahim Tahernejad](https://www.linkedin.com/in/ebrahim-tahernejad-50694768/)
 
