@@ -74,6 +74,10 @@ There is no required textbook for this course. But the students are expected to 
 
 [Armin Tourajmehr](https://www.linkedin.com/in/armin-tourajmehr-a5ab36180/)
 
+<img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
+
+[Erfan Esterabi](https://www.linkedin.com/in/erfan-esterabi-b47740187/)
+
 <img src="/ADS2023/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Ebrahim Tahernejad](https://www.linkedin.com/in/ebrahim-tahernejad-50694768/)
