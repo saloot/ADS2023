@@ -13,7 +13,7 @@ Here's the schedule for the course.
 
 | Week 	| Date	| Lecture | Lab Session |
 |------|------|-----|-----|
-| 1 | 27 Shahrivar - 2 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1NLjeX2OUZLiyOcOjcWaNR8l7H0iFIbE78oer79AwPYc/edit?usp=sharing)	| Introduction to [Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1L8SU21inMVdB0OpXq2-dX-zNnjCPXRJY?usp=sharing) |
+| 1 | 1 Mehr - 8 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1NLjeX2OUZLiyOcOjcWaNR8l7H0iFIbE78oer79AwPYc/edit?usp=sharing)	| Introduction to [Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1L8SU21inMVdB0OpXq2-dX-zNnjCPXRJY?usp=sharing) |
 | 2 | 3 - 9 Mehr | No Classes
 | 3 | 10 - 16 Mehr | No Classes (Especial Circumstances :( )
 | 2 | 17 - 23 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1jlfpfMkJJvVbYsuvTxJ4y1ke8etkPt-P3RCNjkfKMVg/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1pkdTMdJvUNr_5lpX7JY7U6-sofm2kKS7?usp=sharing)  |
