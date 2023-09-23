@@ -29,6 +29,8 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 * Make sure to spend sufficient time on the assignments, since you will be asked to reproduce one of the assignments you had submitted in an in-person session during the class as well. This will account for 5% of final grade.
 
+**Generative AI policy**: Use of ChatGPT, Bard or other similar tools are allowed and *encouraged*. However, please try to solve the assignments by yourself first, and then use prompts for ChatGPT/Bard/etc. and compare your results. If interested, you can submit both results :)
+
 # Homeworks and Due Dates
 
 ### Assignment 1: Pandas, Colab and Kaggle
