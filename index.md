@@ -82,5 +82,5 @@ There is no required textbook for this course. But the students are expected to 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Armin Tourajmehr](mailto:armin.tourajmehr@gmail.com)
+[Armin Tourajmehr](mailto:armin.tourajmehr@gmail.com) <br>
 [Erfan Esterabi](mailto:erfan_esterabi@hotmail.com)
