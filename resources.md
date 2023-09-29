@@ -78,6 +78,7 @@ Here's a sample:
 
 ### Other Datasets?
 <img src="/ADS2023/assets/images/question_mark.jpeg" style="border-radius:5%;height:240px;" width="auto">
+If you are looking for inspirtation and ideas, you can also checkout the ["Awesome Public Datasets"](https://github.com/awesomedata/awesome-public-datasets) page on Github. It has the links to thousands of public datasets, many of which are truly *awesome* ;)
 
 In case you have a dataset that you would like to work on during homeworks, we can discuss it offline and if the dataset is suitable, you can work on the dataset of your choice.
 Just send us [an email](mailto:saloot@gmail.com) and we will sort it out!
