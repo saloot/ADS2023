@@ -13,7 +13,7 @@ Here's the schedule for the course.
 
 | Week 	| Date	| Lecture | Lab Session |
 |------|------|-----|-----|
-| 1 | 4 - 15 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1hlFo3JE1qVbxO7Pea0CG8dMxjNcIWIzLtmRSURfoYSU/edit?usp=sharing)	| Introduction to Google Colab and Datasets/Problems for Homework |
+| 1 | 4 - 15 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1hlFo3JE1qVbxO7Pea0CG8dMxjNcIWIzLtmRSURfoYSU/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1Y8SpqDbunGuCnOP8inzmlfoGcfAsHC_e?usp=sharing) |
 | 2 | 16 - 22 Mehr | Data Cleaning and Preprocessing | EDA/Cleaning in Action  |
 | 3 | 23 - 29 Mehr | Data Visualization | Visualization Notebook |
 | 2 | 30 Mehr - 6 Aban | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
