@@ -42,3 +42,22 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 **Due date:** Monday, Mehr 17, 23:59
 
 
+
+### Assignment 2: Exploratory Analysis and Data Cleaning
+* On the database of your choice, perform Exploratory Data Analysis, Cleaning and Preprocessing.
+    * 25 Points on the notebook running correctly.
+    * 10 Points on the variety of topics explored on the dataset (EDA)
+    * 20 Points on data cleaning (handling all missing, invalid or duplicate values)
+    * 20 Points on data preprocessing and converting everything to numerical values
+    * 10 Points on data normalization/standardization
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+* **Bonus 40 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/data-cleaning) on Kaggle.
+    * Once completed, send us the certificate via **Microsoft Teams assignment page** so that we can celeberate together :)
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1Y0EniYyhBGX5ac8b_mTV80ms56vFIMJf?usp=sharing) as a guideline.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Wednesday 26 Merh, 23:59
