@@ -66,7 +66,7 @@ Here's a sample:
 <img src="/ADS2023/assets/images/fashion_mnist_sample.png" style="border-radius:5%;height:360px;" width="auto">
 
 
-### [World Development Indicators](https://www.kaggle.com/worldbank/world-development-indicators)
+### [World Development Indicators](https://www.kaggle.com/datasets/manchunhui/world-development-indicators)
 <img src="/ADS2023/assets/images/world_development_indicators_dataset.png" style="border-radius:5%;height:240px;" width="auto">
 
 This is a [dataset](https://www.kaggle.com/worldbank/world-development-indicators), from the World Bank, contains "over a thousand annual indicators of economic development from hundreds of countries around the world". It is an amazing and fun dataset to work with!
