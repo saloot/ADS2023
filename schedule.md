@@ -15,7 +15,7 @@ Here's the schedule for the course.
 |------|------|-----|-----|
 | 1 | 4 - 15 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1hlFo3JE1qVbxO7Pea0CG8dMxjNcIWIzLtmRSURfoYSU/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1Y8SpqDbunGuCnOP8inzmlfoGcfAsHC_e?usp=sharing) |
 | 2 | 16 - 22 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1AnedUkv4r9RNR1yACuY5mm_oSjtDCqXI6nIUI1IPEcw/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1Y0EniYyhBGX5ac8b_mTV80ms56vFIMJf?usp=sharing)  |
-| 3 | 23 - 29 Mehr | [Data Visualization](https://docs.google.com/presentation/d/1mStIofwnCbYR_eaZB6-iVSj5r4YdrdlM3n5UGqfIL_I/edit?usp=sharing) | [Visualization Notebook](https://colab.research.google.com/drive/1WldZ8citCfJrGJZzcMKbmgneLQ0bI3-H?usp=sharing) |
+| 3 | 23 - 29 Mehr | [Data Visualization](https://docs.google.com/presentation/d/1mStIofwnCbYR_eaZB6-iVSj5r4YdrdlM3n5UGqfIL_I/edit?usp=sharing) | [Visualization Notebook](https://colab.research.google.com/drive/1WldZ8citCfJrGJZzcMKbmgneLQ0bI3-H?usp=sharing) + [Web Scraping Notebook](https://colab.research.google.com/drive/1hmaWqEw2WIbrLBynaTo7L1Yn4oWgyHqG?usp=sharing#scrollTo=3H2H6IbNVdfR)|
 | 2 | 30 Mehr - 6 Aban | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
 | 3 | 7 - 13 Aban | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
 | 4 | 14 - 20 Aban | Regression Methods | Regression Methods Notebook |
