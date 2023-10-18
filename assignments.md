@@ -64,7 +64,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 
-### Assignment 3: Data Visualization
+### Assignment 3: Data Visualization + Web-scraping
 * On the database of your choice, practice different data visualization techniques
     * 5 Points on the notebook running correctly.
     * 10 points: pie charts (5 points) and box plots (5 points)
