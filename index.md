@@ -1,12 +1,12 @@
 ---
 title: Applied Data Science
-subtitle: Khatam University, Fall 2022
+subtitle: Khatam University, Fall 2023
 layout: page 
 show_sidebar: false
 ---
 
 # About This Course
-<img src="/ADS2022/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ADS2023/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
@@ -40,20 +40,19 @@ Overall, our main target is that we can conduct the whole workflow (e.g. from ga
 There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course. 
 
 ## Grading 
-* Homeworks: 40% + 5%
-    * The 5% corresponds to a "homework quiz session" in which students will be *randomly* given one of the already done homeworks and are expected to replicate their submitted results in a 2-hour session.
+* Homeworks: 40%
 * Final Project: 40%
-    * 2 progress reports during the semester: 30 Points
-    * Notebook (runs correctly and does the task): 50 Points
+    * 2 progress reports during the semester: 40 Points
+    * Notebook (runs correctly and does the task): 40 Points
     * Final presentation on the last day of class: 20 Points
         * Of the 20 points of the presentation, 10 comes from other groups!
-* Final Exam: 15%
+* Final Exam: 20%
 
 * *Bonus* of upto 5% for participation in a Kaggle contest! More on that later on
 
 # Logistics
-* The course is divided into a lecture (on Sundays) and a lab session (on Tuesdays). 
-* Classes are a combination of online and in person. We plan to have two in-person handson lab session held in person each month and the rest are online and recorded on MS teams.
+* The course is divided into a lecture and a lab session each week. 
+* Classes are a combination of online and in person. We plan to have two in-person hands-on lab session held in person each month and the rest are online and recorded on MS teams.
   * We'll arrange a session throughout the week for helping you with issues you might encounters when working on your homework/project. Alternatively, you could contact us o
   MS Teams chat as well.
 * We are going to use **Python** for the hands on lab sessions. But homeworks/projects can be handed as a pre-computed Jupyter notebooks.
@@ -64,7 +63,7 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ADS2023/assets/images/20210610_183220-lo.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
@@ -74,14 +73,14 @@ There is no required textbook for this course. But the students are expected to 
 
 [Armin Tourajmehr](https://www.linkedin.com/in/armin-tourajmehr-a5ab36180/)
 
-<img src="/ADS2023/assets/images/etahernejad.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
-[Ebrahim Tahernejad](https://www.linkedin.com/in/ebrahim-tahernejad-50694768/)
+[Erfan Esterabi](https://www.linkedin.com/in/erfan-esterabi-b47740187/)
 
 
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Armin Tourajmehr](mailto:armin.tourajmehr@gmail.com)
-[Ebrahim Tahernejad](mailto:ebrahimtahernejad@gmail.com)
+[Armin Tourajmehr](mailto:armin.tourajmehr@gmail.com) <br>
+[Erfan Esterabi](mailto:erfan_esterabi@hotmail.com)
