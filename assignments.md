@@ -121,3 +121,40 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 **Due date:** Tuesday, Aban 9, 23:59
 
+
+
+### Assignment 5: Accuracy Measures
+* On the database of your choice, practice measuring the following accuracy measures:
+    * 15 Points on the notebook running correctly.
+    * 20 Points: Regression Accuracy Metrics:
+        * 5 Points: measuring Mean Squared Error (MSE)
+        * 5 Points: measuring Mean Absolute Error (MAE)
+        * 5 Points: measuring Mean Absolute Percentage Error (MAPE)
+        * 5 Points: measuring R2 Score (MAPE)
+    * 15 Points: Binary Classification Accuracy Metrics:
+        * 5 Points: Precision
+        * 5 Points: Recall
+        * 5 Points: F1-Score
+    * 25 Points: Multi-class Classification Accuracy Metrics:
+        * 5 Points: Precision for each class
+        * 5 Points: Recall for each class
+        * 15 Points: Macro, Weigthed, Micro-averaged F1-Score
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+    * 10 Points: Suppose we have a multi-label classification problem in the field of football, where each sample (player) can belong to some of 4 classes that we have:
+        * Class 1: The player has played for the national team before
+        * Class 2: The player had previous history of heart problems
+        * Class 3: The player had knee injuries before
+        * Class 4: The player has been the captain of the team in the past 
+
+    What accuracy metric do you use to best capture the accuracy of classification algorithm which predicts the above classes based on some data from each player and why?
+ 
+* To measure the above metric, you can either perform simple regression/classification using scikit-learn modules, or simply generate a random vector as the prediction and measure the difference (accuracy) between this "prediction" vector and the actual values (one of the columns of your choice).
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1w2HkCGwNj3DWyOif8WF-7pM7pkT8XriC?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Tuesday 16, 23:59
