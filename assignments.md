@@ -158,3 +158,26 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Monday, Tuesday 16, 23:59
+
+
+### Assignment 6: Regression Methods
+* On the database of your choice, practice measuring the following accuracy measures:
+    * 15 Points on the notebook running correctly.
+    * 10 Points: Linear Regression (**try** to reach R2-score above 0.8)
+    * 10 Points: Linear Regression (**try** to reach R2-score above 0.85)
+    * 10 Points: Kernel Regression (R2-score not important!)
+    * 10 Points: Logistic Regression (**try** to reach with R2-score above 0.8)
+    * 10 Points: Ridge Regression (**try** to reach with R2-score above 0.75)
+    * 10 Points: LASSO Regression (**try** to reach with R2-score above 0.75)
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+    * 10 Points: explain kernel trick in a few sentences and how it can be helpful in achieving better regression results.
+ 
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1y8lSmzpeFl5pjEqr7Ug0AreA1ap_1I2b?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Friday, Aban 26, 23:59
