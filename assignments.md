@@ -278,3 +278,34 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
 **Due date:** Friday, Azar 17, 23:59
+
+
+### Assignment 10: Deep Neural Networks
+* On the database of your choice, practice working with neural networks and tuning them
+* You can use the neural network you developed in the previous assignment (using Keras)
+* The problem you work on in this exercise can be either regression or classification, whichever you find more suitable (one of them is sufficient)
+* For each of the following tasks, please **try at least 5 different options**
+* In all cases, please use 4-fold cross validation and use the average validation accuracy as the measure to tune.
+    * 15 Points on the notebook running correctly.
+    * 10 Points: Tuning for optimization algorithm (e.g. SGD, ADAM, etc.)
+    * 5 Points: Tuning learning rate 
+    * 5 Points: Tuning learning rate decay
+    * 5 Points: Tuning batch size
+    * 5 Points: Tuning activation functions
+    * 5 Points: Tuning weight intilaization
+    * 10 Points: Trying multiple layers and number of neurons (e.g. playing with network architecture)
+    * 5 Points: Tuning l1 and l2 regularization in the weights
+    * 5 Points: Tuning l1 and l2 regularization in the activity_kernel
+    * 5 Points: Tuning dropout rate
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+    * 10 Points: In a paragraph, explain why it gets more difficult to train deep neural networks when the number of layers increase (i.e. when the network gets deeper).
+
+* All scores are measured on test set, which should be 20% of the whole dataset
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1DRtfB3FKpo1j4bAaZM4uqqiEI7W5xX7k?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Monday, Azar 24, 23:59
