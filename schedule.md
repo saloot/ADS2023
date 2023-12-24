@@ -25,9 +25,9 @@ Here's the schedule for the course.
 | 8 | 12 - 18 Azar | [Deep Learning](https://docs.google.com/presentation/d/1owiLaw87_oysfzIQANhyTSt_cIIdOEau2yefaj39iSE/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1DRtfB3FKpo1j4bAaZM4uqqiEI7W5xX7k?usp=sharing)  |
 | 10 | 19 - 27 Azar | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1SbDUi-o4aWJ5AzM6YhHPM4Y9Gpw_EtyH7-j8Pkt8hvM/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/1-6xI_DaY_lsMzLXQuPS5Vzj2-t-7O7re?usp=sharing) |
 | 11 | 28 Azar - 3 Dey | [Generative AI](https://docs.google.com/presentation/d/1jXC0EJrErFVNyN5SdAX6iXe9-cqByjNpmpPvt6ZcIjY/edit?usp=sharing) | [GenAI Notebook](https://colab.research.google.com/drive/1QFSgMv4ZhpYlOLMPUMf4lOxtB3fyBDYD?usp=sharing) |
-| 12 | 5 - 12 Dey | Model Explainability, Imbalanced Classes, Pipelines | Model Explainability, Pipelines, Imablanced Data and AutoML Notebook |
-| 13 | 17 Dey | Guest Speakers from Inudstry | - |
-| 14 | 17 - 20 Dey | Final Projects Presentation | Final Projects Presentation |
+| 12 | 4 - 11 Dey | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1Z-ksD7fRhG3ieXjPqdoww7_x3uATLyqgbpVl6TB9D4Q/edit?usp=sharing) | Model Explainability, Pipelines, Imablanced Data and AutoML Notebook |
+| 13 | 12 - 17 Dey | Practical Stuff | Guest Speakers from Inudstry |
+| 14 | 19 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
 | 15 | 9 Bahman | Final Exam
 
 
