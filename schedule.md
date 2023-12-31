@@ -27,8 +27,8 @@ Here's the schedule for the course.
 | 11 | 28 Azar - 3 Dey | [Generative AI](https://docs.google.com/presentation/d/1jXC0EJrErFVNyN5SdAX6iXe9-cqByjNpmpPvt6ZcIjY/edit?usp=sharing) | [GenAI Notebook](https://colab.research.google.com/drive/1QFSgMv4ZhpYlOLMPUMf4lOxtB3fyBDYD?usp=sharing) |
 | 12 | 4 - 11 Dey | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1Z-ksD7fRhG3ieXjPqdoww7_x3uATLyqgbpVl6TB9D4Q/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1BuwW73gEbZgjtuwZn2kQ2UsFwIu7Yt3r?usp=sharing) |
 | 13 | 12 - 15 Dey | [Practical Stuff](https://docs.google.com/presentation/d/1FSKnDFbQlsmgk2RPzHoeVBPgcBVBlrWHBe3Y3tgYXpA/edit?usp=sharing) | [Practical Stuff Notebook](https://colab.research.google.com/drive/1DisImTsbg7lt9wJW16scs3VEYAc25x2c?usp=sharing) |
-| 13 | 17 Dey | Guest Speakers from Inudstry |
-| 14 | 19 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
-| 15 | 9 Bahman | Final Exam
+| 14 | 17 Dey | Guest Speakers from Inudstry |
+| 15 | 19 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
+| 16 | 9 Bahman | Final Exam
 
 
