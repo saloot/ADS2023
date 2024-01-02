@@ -360,4 +360,40 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
-**Due date:** Tuesday, Dey 12, 23:59
+**Due date:** Friday, Dey 15, 23:59
+
+
+
+
+### Assignment 13: Imbalanced Data, Pipelines and AutoML
+* **This is a bonus assignment!**
+
+* Using the dataset for assignment 7 or 8, where you had some *imbalanced classes*:
+    * 5 Points: Create a data loading and cleaning pipeline using Pandas pipe
+    * 5 Points: Create a preprocessing pipeline using Scikit-learn pipelines
+    * 5 Points: Use an Imputer to deal with null data points to your pipe
+    * 5 Points: Attach a classifier to your pipeline to test the performance of your algorithm
+
+* Practice dealing with imblanaced data using:
+    * 5 Points: Random undersampling for the majority classes
+    * 5 Points: Random oversampling for the miniority classes
+    * 5 Points: SMOTE oversampling
+    * 5 Points: Class weights to perform cost-senisitve training
+
+* Explainable AI: Using the convolutional architecture from assignment 11, explain *why* the model misclassified an image using:
+    * 10 Points: Grad-CAM
+    * 10 Points: SHAP
+    * 5 Points: LIME
+    * 5 Points: Eli5
+
+* 10 Points on the notebook running correctly.
+* 20 Points on having sufficient explanations and overall readability of the notebook
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1BuwW73gEbZgjtuwZn2kQ2UsFwIu7Yt3r?usp=sharing) as a guideline.
+
+**IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Friday, Dey 22, 23:59
