@@ -42,8 +42,8 @@ There is no required textbook for this course. But the students are expected to 
 ## Grading 
 * Homeworks: 40%
 * Final Project: 40%
-    * 2 progress reports during the semester: 40 Points
-    * Notebook (runs correctly and does the task): 40 Points
+    * 1st progress reports during the semester: 25 Points
+    * Final progress and notebook report: 55 Points
     * Final presentation on the last day of class: 20 Points
         * Of the 20 points of the presentation, 10 comes from other groups!
 * Final Exam: 20%
